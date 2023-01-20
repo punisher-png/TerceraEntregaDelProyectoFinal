@@ -67,10 +67,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "Segunda-Entrega-del-Proyecto-Final:build:production"
+              "browserTarget": "afterclass-6-modulos-apuntes:build:production"
             },
             "development": {
-              "browserTarget": "Segunda-Entrega-del-Proyecto-Final:build:development"
+              "browserTarget": "afterclass-6-modulos-apuntes:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -78,7 +78,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "Segunda-Entrega-del-Proyecto-Final:build"
+            "browserTarget": "afterclass-6-modulos-apuntes:build"
           }
         },
         "test": {
